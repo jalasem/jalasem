@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jalasem
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @jalasem Software Engineer @meta
+- 👀 I’m interested in building apps that impact billions
+- 🌱 I’m currently learning machine learning
+- 💞️ I’m looking to collaborate on community building and giving back
+- 📫 How to reach me: Send me a DM on twitter: @vuevocate (I love React more...lol)
 
 <!---
 jalasem/jalasem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
