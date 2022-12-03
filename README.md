@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @jalasem Software Engineer @meta
+- 👋 Hi, I’m @jalasem
+- 💻 Software Engineer at Meta
 - 👀 I’m interested in building apps that impact billions
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on community building and giving back
