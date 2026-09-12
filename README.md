@@ -26,7 +26,7 @@
 | --- | --- |
 | [Hourfolk](https://hourfolk.abdulsamii.com) · [Chrome Web Store](https://chromewebstore.google.com/detail/hourfolk/gmogjfhodnhpfjkphmcmgoefclceecfd) | World clocks, plain-language time-zone planning, and reminders for Chrome. Free, no account, no tracking. Mac app on the way. |
 | [react-pouch](https://github.com/jalasem/react-pouch) · [npm](https://www.npmjs.com/package/react-pouch) | Plugin-based state management for React and React Native. No providers, no context hell, TypeScript native. |
-| [kuda-node](https://github.com/jalasem/kuda-node) · [npm](https://www.npmjs.com/package/kuda-node) | Node.js client for the Kuda Bank API. |
+| [Kuda Node.js library](https://github.com/Ebidhaa-Services/Kuda-Node.js-Library) | Node.js client for the Kuda Bank API, built with Ebidhaa Services (main contributor). |
 | [Basora](https://github.com/jalasem/Basora) | Chrome extension that turns a doc into a README. |
 
 ### Numbers that are mine
